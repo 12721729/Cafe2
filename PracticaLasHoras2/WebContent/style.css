@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {background-color: #f9dede;}
+h1 {text-align: center;}
+
+.medio {
+	text-align: center;
+}
+.derecha {
+	text-align:right;
+}
+.izquierda {
+	text-align:left;
+}
+
+.rojo {
+	color:red;
+	text-align:center;
+}
+
+.red {
+	color:red;
+}
